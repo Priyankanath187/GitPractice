@@ -5,6 +5,7 @@ class Demo{
     System.out.println("Enter two numbers");
     int first = 10;
     int second = 20;
+    int i=30;
     
     System.out.println(first + " " + second);
 

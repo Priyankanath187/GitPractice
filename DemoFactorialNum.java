@@ -7,7 +7,8 @@ class FactorialExample{
         int n = 8;  // Number whose factorial we want to calculate  
         //Calculating factorial of number 8  
         for(i=1;i<=n;i++){      
-            factorial = factorial*i;      
+            factorial = factorial*i;   
+            //Changes for HIS-122   
         }  
         // Showing factorial of the number      
         System.out.println(factorial+" is the factorial of: "+n);      

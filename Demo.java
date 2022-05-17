@@ -12,5 +12,9 @@ class Demo{
     // add two numbers
     int sum = first + second;
     System.out.println("The sum is: " + sum);
+
+public void First(){
+ System.out.println("I am from method");
+}
   }
 }

@@ -11,5 +11,8 @@ class FactorialExample{
         }  
         // Showing factorial of the number      
         System.out.println(factorial+" is the factorial of: "+n);      
-    }    
+    }   
+public static FacBlock(){
+ System.out.println("I am form faczblock method"); 
+} 
 }  
